@@ -4,8 +4,8 @@ Explored how to use CSS Media Queries to make web layouts adapt to different scr
 
 ## Preview
 
-![preview](image3.png)
-![web](image5.png)
+![preview](image1.png)
+![web](image.png)
 
 ## How To Run This Project
 
